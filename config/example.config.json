@@ -1,0 +1,24 @@
+{
+  "device": {
+    "processor": "NVIDIA Jetson AGX Orin",
+    "holographic_module": "HoloEye PLUTO",
+    "impedance_sensor": "Texisense BIA-100",
+    "accelerometer": "Bosch BMI160",
+    "network_module": "Quectel RM500Q"
+  },
+  "ai": {
+    "model_path": "models/diagnostic_model.h5",
+    "confidence_threshold": 0.85,
+    "update_interval_seconds": 10
+  },
+  "network": {
+    "server_url": "https://your-server.com/api",
+    "5g_apn": "internet",
+    "timeout_seconds": 30
+  },
+  "ui": {
+    "resolution": "1920x1080",
+    "language": "en",
+    "theme": "dark"
+  }
+}
