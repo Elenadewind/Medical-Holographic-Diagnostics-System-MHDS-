@@ -51,16 +51,14 @@ Project Structure
 ├── requirements.txt  # Python dependencies
 ├── LICENSE           # MIT License
 └── README.md         # This guide
-1. README.md
-markdown
-# Medical Holographic Diagnostics System (MHDS)
 
+# Медицинская голографическая диагностическая система (МГДС)
 
 Футуристическая система медицинской диагностики с голографической визуализацией и ИИ‑анализом.
 
 ## Описание
 
-MHDS объединяет:
+МГДС объединяет:
 - голографическую проекцию анатомических структур;
 - датчики биоимпеданса и движения;
 - ИИ‑алгоритмы для анализа данных;
@@ -120,4 +118,4 @@ python main.py
 ├── tests/            # Тестовые сценарии
 ├── requirements.txt  # Зависимости Python
 ├── LICENSE           # Лицензия MIT
-└── README.md         # Это руководство переведи на английский
+└── README.md         # Это руководство 
