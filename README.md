@@ -13,14 +13,14 @@ Functional Capabilities
 tissue composition analysis (muscle, fat, water);
 motion tracking using an accelerometer;
 AI‑powered anomaly diagnosis;
-data transmission to the cloud (5G).
+
 Technical Requirements
 Hardware:
 
 Processor: NVIDIA Jetson AGX Orin;
 Holographic module: HoloEye PLUTO;
 Sensors: Texisense BIA‑100 + Bosch BMI160;
-Connectivity: Quectel RM500Q (5G).
+
 Software:
 
 OS: Ubuntu 22.04 LTS;
